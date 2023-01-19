@@ -16,7 +16,6 @@
 html, body{
     min-height:100vh; 
     background-color: darkgray;
-    min-width: 100vh;
 }
 
 header{
